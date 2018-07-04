@@ -1,1 +1,3 @@
-# AngryTest
+# Angry
+
+A little app game
